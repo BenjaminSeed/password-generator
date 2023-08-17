@@ -8,6 +8,10 @@ A simple password generator app built using HTML, CSS, and JavaScript. When the 
 - Passwords include a mix of uppercase letters, lowercase letters, numbers, and special characters.
 - User-friendly interface with a clean design.
 
+## Demo
+
+You can check out a live demo of the app [here](https://idyllic-boba-3f114b.netlify.app).
+
 ## How to Use
 
 1. Clone this repository to your local machine.
