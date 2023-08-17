@@ -1,21 +1,18 @@
-# coc6a4fc88bd68795eb63f4a9
+# Simple Password Generator App
 
-Quick start:
+A simple password generator app built using HTML, CSS, and JavaScript. When the user clicks the "Generate Password" button, the app generates two random passwords and displays them on the screen.
 
-```
-$ npm install
-$ npm start
-````
+## Features
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
+- Generates two random passwords with each button click.
+- Passwords include a mix of uppercase letters, lowercase letters, numbers, and special characters.
+- User-friendly interface with a clean design.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## How to Use
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+1. Clone this repository to your local machine.
+2. Open the `index.html` file in your web browser.
+3. Click the "Generate Password" button to generate two random passwords.
 
-Happy Coding!
+
+Created by [Benjamin Seed](https://github.com/BenjaminSeed) - [LinkedIn](https://www.linkedin.com/in/benjamin-seed/)
